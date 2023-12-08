@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\obj\Debug\WeatherCheck.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\obj\Debug\WeatherCheck.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\bin\Debug\WeatherCheck.exe.config
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\bin\Debug\WeatherCheck.exe
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\bin\Debug\WeatherCheck.pdb
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\bin\Debug\Newtonsoft.Json.xml
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\obj\Debug\WeatherCheck.csproj.CopyComplete
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\obj\Debug\WeatherCheck.exe
+C:\Users\burak\source\repos\WeatherCheck\WeatherCheck\obj\Debug\WeatherCheck.pdb
